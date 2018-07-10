@@ -43,10 +43,6 @@ h1 {
 	border-bottom: 1px solid #ccc;
 }
 
-h1:hover {
-	color: rgb(111,127,122);
-}
-
 h2 {
   color: rgb(111,127,122);
 	font-size: 2em;
@@ -75,6 +71,10 @@ p > a:hover {
 header a {
 	color: rgb(152,173,166);
 	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(111,127,122);
 }
 
 footer {
