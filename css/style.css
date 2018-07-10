@@ -72,6 +72,7 @@ footer {
 .press {
 	border: 5px rgb(204,204,204) solid;
 	float: left;
+	margin: 2px;
 }
 
 .press:hover {
