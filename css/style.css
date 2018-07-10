@@ -67,9 +67,7 @@ p > a:hover {
 }
 
 footer {
-  font-size: 0.8em;
-  position: absolute;
-	right: 55px;
+  float: right
 }
 
 /* ID Styles */
