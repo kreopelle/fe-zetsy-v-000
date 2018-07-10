@@ -81,7 +81,7 @@ img#featured {
   border: 5px rgb(152,173,166) solid;
 }
 
-img#press {
+#press img {
 	border: 5px rgb(204,204,204) solid;
 	float: left;
 	margin: 2px;
