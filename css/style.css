@@ -44,12 +44,12 @@ p {
 }
 
 p > a:link {
-	color: rgb(111,127,122);
+	color: rgb(38,132,185);
 	text-decoration: none;
 }
 
 p > a:hover {
-	color: rgb(111,127,122);
+	color: rgb(38,132,185);
 	text-decoration: underline;
 }
 
