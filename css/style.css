@@ -1,5 +1,5 @@
 /*////////////// Fonts //////////////*/
-@import url("./fonts/Baskerville.ttc");
+@import url("../fonts/Baskerville.ttc");
 
 /* link the web font used for the level 1 heading here */
 
@@ -24,30 +24,34 @@ body {
 /* Element Styles */
 
 h1 {
-  font-family: Baskerville, 'Times New Roman', serif;
+  font-family: Baskerville, serif;
+	font-size: 5em;
+	color: rgb(152,173,166);
 }
 
-h1, h2 {
-  color: rgb(152,173,166);
+h2 {
+  color: rgb(111,127,122);
+	font-size: 2em;
 }
 
-img {
-  border: 1px solid #ccc;
+p {
+	font-size: 1em;
 }
 
 footer {
-  font-size: 25%;
-  position: absolute;
-  right: 0px;
+  font-size: 0.8em;
+  float: right;
 }
 
 /* ID Styles */
 
 #featured {
-  border-color: #98ada6;
+  border: 5px rgb(152,173,166) solid;
 }
 
-
+.press {
+	border: 5px rgb(204,204,204) solid;
+}
 
 /* Add borders to images */
 /* Change header colors */
